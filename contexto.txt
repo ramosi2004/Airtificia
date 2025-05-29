@@ -1,0 +1,17 @@
+Descripción de la navegación de mi proyecto individual:
+
+Mi proyecto web está diseñado para ofrecer una experiencia de navegación intuitiva y moderna entre las diferentes áreas de la empresa AIRTIFICIAL.
+
+Página principal (index.html):
+
+En la parte superior derecha encontrarás un menú principal con acceso directo a las tres divisiones clave:
+AIINTELLIGENTROBOTS, AIAEROSPACE&DEFENSE y AIINFRASTRUCTURES.
+En la sección central, también puedes acceder a estas divisiones a través de tres tarjetas visuales, cada una representando una línea de negocio.
+Además, en la parte inferior (footer), se repiten los accesos a las divisiones, permitiendo moverte fácilmente desde cualquier punto de la página.
+
+Páginas de cada división (intelligent-robots.html, aerospace-defense.html, infrastructures.html):
+
+Cada una mantiene la coherencia visual y de navegación, mostrando en el footer los enlaces a las otras divisiones, para que puedas cambiar de sección rápidamente sin importar en qué página te encuentres.
+En algunas páginas, encontrarás botones funcionales como "Ver video" u otras acciones interactivas que enriquecen la experiencia del usuario.
+
+En resumen, puedes moverte entre todas las páginas principales tanto desde el menú superior, las tarjetas centrales o el footer, asegurando una navegación fluida y accesible en todo momento.
